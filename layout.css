@@ -1,0 +1,19 @@
+body {
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+	background-color: rgb(0, 0, 0);
+	background-image: url('http://www.hellasmultimedia.com/webimages/christ-htm/backgrounds/misc/bg-gold-star.gif');
+	background-repeat: repeat;
+}
+canvas {
+	outline: 0;
+	margin-left: auto;
+	margin-right: auto;
+	width: 500;
+	height: 500;
+	border: white 1px solid;
+}
+
+
+

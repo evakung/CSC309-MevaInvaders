@@ -1,0 +1,30 @@
+README File - Feb 2014
+
+Meva-Invaders Shooting Game (CSC309 A1) 
+Creators:
+Michelle Liao: g3michhy, 999139640 
+Eva (FanYi) Kung: g3ekungg, 998137573 
+--------------------------------------------------------------------------------------------------------------------------------
+Meva-Invaders is a simplified version of the classic arcade game Space Invaders, 
+(description of the original game : http://en.wikipedia.org/wiki/Space_Invaders). 
+
+Steps:
+1. Click on 'index.html'
+2. Press 'Z' to move the shooting rocket left
+3. Press 'X' to move the shooting rocket right
+4. Press 'Spacebar' to shoot bullets at the aliens moving above you
+5. Enjoy the game!
+
+
+
+
+The main objects in Meva-Invaders are:
+game objects that enemy, shooter inherence from.
+Enemy
+Shooter
+bullet
+
+The data structures that were used in the meva-invaders are consisted of arrays of arrays i.e. grid, where all the game objects(enemies, shooters and bullets) are within, and draw onto. 
+
+
+The main functionalities are presented in meva-invaders.js where the game functionalities is defined that calls the functions to initialize the game. Also, the control functions between the game and the keypress/up is also defined. 
